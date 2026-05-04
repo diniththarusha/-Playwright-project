@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-https://github.com/diniththarusha/-Playwright-project.git
-=======
-https://github.com/diniththarusha/-Playwright-project.git
->>>>>>> 13d8161 (final)
+
